@@ -1,0 +1,74 @@
+.cards{
+    width: 28%;
+    height: 35vh;
+    margin-top: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 10px;
+    /* border: 2px solid black; */
+}
+.innerCard{
+    width: 90%;
+    height: 60%;
+    margin-top: 10px;
+    margin-left: 18px;
+    /* border: 2px solid red; */
+}
+.star{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    /* border: 2px solid black; */
+}
+.size{
+    font-size: 20px;
+    font-weight: 500;
+}
+.icons{
+    font-size: 19px;
+    margin-left: 7px;
+    Color: #FACC15;
+    /* border: 2px solid red; */
+}
+.cardMiddle{
+    width: 100%;
+    color: rgb(75,85,124);
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    padding-left: 2px;
+    /* border: 2px solid yellow; */
+}
+.address{
+    font-size: 14px;
+}
+.little{
+    color: rgb(75,85,124);
+    padding-left: 4px;
+    margin-top: 4px;
+    font-size: 14px;
+}
+.outerCard{
+    width: 100%;
+    height: 12.2vh;
+    background-color: rgb(243,244,246);
+    /* border: 2px solid black; */
+}
+.cutlery{
+    width: 90%;
+    padding-top: 10px;
+    margin-left: 20px;
+    display: flex;
+    gap: 5px;
+    color: rgb(34,197,94);
+    /* border: 2px solid red; */
+}
+.tasu{
+    width: 100%;
+    margin-left: 1.5rem;
+    text-decoration: none;
+    color: rgb(59,132,246);
+    /* border: 2px solid red; */
+}
+.tasu:hover{
+    text-decoration: underline;
+}
